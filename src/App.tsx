@@ -1,4 +1,5 @@
 import { Provider } from 'react-redux'
+
 import Catalog from './components/Catalog'
 
 import store from './store'
